@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AzKu5s5bUbMmAcw46a8sAvrN2ed3mal8iTUcUjZepwEF64AiZGP4vZOUCG5trzJIrYfYa3U2lX3Sjd2S/R5g9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bgrac\\source\\repos\\AoC\\AoC\\AoC_Day1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bgrac\\.nuget\\packages\\filehelpers\\3.5.2\\filehelpers.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
