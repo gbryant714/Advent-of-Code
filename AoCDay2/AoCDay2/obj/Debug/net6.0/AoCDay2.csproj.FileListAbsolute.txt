@@ -1,0 +1,16 @@
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\bin\Debug\net6.0\AoCDay2.exe
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\bin\Debug\net6.0\AoCDay2.deps.json
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\bin\Debug\net6.0\AoCDay2.runtimeconfig.json
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\bin\Debug\net6.0\AoCDay2.dll
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\bin\Debug\net6.0\AoCDay2.pdb
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\obj\Debug\net6.0\AoCDay2.csproj.AssemblyReference.cache
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\obj\Debug\net6.0\AoCDay2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\obj\Debug\net6.0\AoCDay2.AssemblyInfoInputs.cache
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\obj\Debug\net6.0\AoCDay2.AssemblyInfo.cs
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\obj\Debug\net6.0\AoCDay2.csproj.CoreCompileInputs.cache
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\obj\Debug\net6.0\AoCDay2.dll
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\obj\Debug\net6.0\refint\AoCDay2.dll
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\obj\Debug\net6.0\AoCDay2.pdb
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\obj\Debug\net6.0\AoCDay2.genruntimeconfig.cache
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\obj\Debug\net6.0\ref\AoCDay2.dll
+C:\Users\bgrac\source\repos\AoCDay2\AoCDay2\bin\Debug\net6.0\day2.txt
